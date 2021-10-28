@@ -132,3 +132,12 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+CORS_ORIGIN_WHITELIST = (
+    'http://localhost:3000',
+)
+CORS_ALLOWED_ORIGINS = [
+    'http://localhost:3000',
+]
+CORS_URLS_REGEX = r'^/api.*'
