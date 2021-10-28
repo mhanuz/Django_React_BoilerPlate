@@ -1,4 +1,4 @@
-# Django_React_BoilerPlate
+# Django_React_BoilerPlate ( code is in Master Branch)
 intigration of django and react with production folder
 
 ---
