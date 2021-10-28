@@ -1,5 +1,5 @@
 # Django_React_BoilerPlate
-intigration of django and react 
+intigration of django and react with production folder
 
 ---
 ## Reactjs
